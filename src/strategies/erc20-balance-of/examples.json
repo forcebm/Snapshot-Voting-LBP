@@ -4,8 +4,8 @@
     "strategy": {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-        "symbol": "DAI",
+        "address": "0xa23c1194d421f252b4e6d5edcc3205f7650a4ebe",
+        "symbol": "LBP",
         "decimals": 18
       }
     },
